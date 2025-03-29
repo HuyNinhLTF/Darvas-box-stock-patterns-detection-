@@ -99,7 +99,7 @@ for symbol, df in result_data:
 
     # Iterate through breakout rows
     for index, row in breakout_rows.iterrows():
-        date = row['time']  # Assuming 'time' column contains the date
+        date = row['time']  
 
         # Append symbol to dictionary
         if date in breakout_dates:
