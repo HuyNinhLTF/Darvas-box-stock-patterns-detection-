@@ -86,7 +86,6 @@ list_name_companies = get_securities_list()
 # Fetch data in parallel
 result_data = parallel_fetch_data(list_name_companies)
 
-# Assuming result_data is in the format you provided
 
 from collections import OrderedDict
 
