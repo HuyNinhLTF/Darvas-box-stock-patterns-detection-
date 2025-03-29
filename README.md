@@ -42,7 +42,7 @@ Chương trình sử dụng `mplfinance` để vẽ biểu đồ nến của nh�
 ## Cách chạy chương trình
 Chạy file Python với lệnh sau:
 ```bash
-python 'Flat base' tool'.py
+python 1. 'Flat base' tool'.py
 ```
 Chương trình sẽ trả về danh sách cổ phiếu và vẽ biểu đồ candlestick.
 
